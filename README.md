@@ -1,7 +1,6 @@
-
 # 👨‍💻 Welcome to My Data Science Profile
 
-![Coding Animation](https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif)
+![Coding Animation video](https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif)
 
 ## About ME
 
