@@ -10,6 +10,8 @@
 
 As a passionate **Data Scientist**, I transform raw data into actionable insights. My toolkit blends advanced analytics, machine learning, and Deep learning to build robust, scalable solutions.
 
+![Email](https://img.shields.io/badge/email-Content%20Me-red?style-for-the-badge&logo-email)
+
 ## Core Competencies
 
 - **Data Engineering & Wrangling**: Clean, merge, and reshape diverse datasets.
