@@ -118,3 +118,6 @@ As a passionate **Data Scientist**, I transform raw data into actionable insight
 - 🔗 [GitHub](https://github.com/WasiqAli275/WasiqAli275)
 - 🐦 [Freelancer](https://www.freelancer.pk/u/wasiqaliy)
 - 📧 [upwork](https://www.upwork.com/freelancers/~016348ec60528b2fd9)
+- %  [fiverr](https://www.fiverr.com/s/zWNPjXg)
+- $  [kaggle](https://www.kaggle.com/wasiqaliyasir)
+- /\ [Facebook](https://www.facebook.com/profile.php?id=100092751110055)
