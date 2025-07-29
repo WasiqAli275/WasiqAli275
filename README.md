@@ -121,3 +121,4 @@ As a passionate **Data Scientist**, I transform raw data into actionable insight
 - %  [fiverr](https://www.fiverr.com/s/zWNPjXg)
 - $  [kaggle](https://www.kaggle.com/wasiqaliyasir)
 - /\ [Facebook](https://www.facebook.com/profile.php?id=100092751110055)
+- *  [Guru](https://www.guru.com/freelancers/wasiq-ali-yasir)
